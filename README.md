@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🎓 ADS • GTI • Redes de Computadores <br>
+🎓 ADS • GTI • RDC <br>
 🇧🇷 Brasil
 </p>
 
@@ -43,10 +43,10 @@ Utilizo tecnologias modernas e inteligência artificial para desenvolver soluç�
 
 ### ⚙️ Backend / Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" />
 </p>
 
-### 🧰 Ferramentas
+### ☁️ Deploy e Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=git,figma,vercel" />
 </p>
@@ -72,8 +72,8 @@ Apresentação dos meus projetos e soluções desenvolvidas.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenryGabriel7&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryGabriel7&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -92,9 +92,11 @@ Criar sistemas que automatizam processos, resolvem problemas reais e ajudam neg�
 
 ---
 
-## 🤝 Contato
+## 📫 Contato
 
-📩 Aberto a projetos, oportunidades e colaborações
+- 📱 Telefone: [45 9 9950-3758](tel:+5545999503758)
+- 📸 Instagram: [@henryg_ramos](https://www.instagram.com/henryg_ramos)
+- 💼 LinkedIn: [Henry Gabriel Marques Ramos](https://www.linkedin.com/in/henry-gabriel-marques-ramos-162b71380)
 
 ---
 
