@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🎓 ADS • GTI • RDC <br>
+🎓 ADS • GTI • RDS <br>
 🇧🇷 Brasil
 </p>
 
